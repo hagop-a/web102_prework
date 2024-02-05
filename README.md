@@ -1,6 +1,6 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Hagop Alajajiane**
+Submitted by: **Hagop Alajajian**
 
 **GameFund** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
